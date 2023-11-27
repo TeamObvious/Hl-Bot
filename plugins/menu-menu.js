@@ -25,23 +25,23 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
  *Ey , Hola AlacranLovers ${taguser} Te Presento Este Bot 🦂*
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 Creador : Cristhofer
  ►🦂 Numero ; +51 936 994 155
  ►🦂 Adquirir : +51 936 994 155
  ►🦂 Ig : Team.Clan.Hack
- ◣━━━━━━━━━━━◢
- 
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
+
  *« MENUS ADICIONALES »*
  
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}labiblia_
  ►🦂 _${usedPrefix}ListaVs_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« COMANDOS BOT »*
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}enable restrict_
  ►🦂 _${usedPrefix}disable restrict_
  ►🦂 _${usedPrefix}enable autoread_
@@ -56,13 +56,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}disable audios_bot_
  ►🦂 _${usedPrefix}enable antiprivado_
  ►🦂 _${usedPrefix}disable antiprivado_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« JUEGOS »*
 
- ◤━━━━━━━━━━━◥
-►🦂 _${usedPrefix}nalga *<nombre / @tag>*_
-►🦂 _${usedPrefix}follar *<nombre / @tag>*_
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
+ ►🦂 _${usedPrefix}nalga *<nombre / @tag>*_
+ ►🦂 _${usedPrefix}follar *<nombre / @tag>*_
  ►🦂 _${usedPrefix}huevo *<nombre / @tag>*_
  ►🦂 _${usedPrefix}abrazo *<nombre / @tag>*_
  ►🦂 _${usedPrefix}cuando_
@@ -110,11 +110,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}pista_
  ►🦂 _${usedPrefix}akinator_
  ►🦂 _${usedPrefix}wordfind_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« Enable / Disable »*
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}enable *welcome*_
  ►🦂 _${usedPrefix}disable *welcome*_
  ►🦂 _${usedPrefix}enable *modohorny*_
@@ -141,11 +141,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}disable *modoadmin*_
  ►🦂 _${usedPrefix}enable *antidelete*_
  ►🦂 _${usedPrefix}disable *antidelete*_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« DESCARGAS »*
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}instagram *<url>*_
  ►🦂 _${usedPrefix}mediafire *<url>*_
  ►🦂 _${usedPrefix}gitclone *<url>*_
@@ -181,11 +181,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}igstalk *<user>*_
  ►🦂 _${usedPrefix}igstory *<user>*_
  ►🦂 _${usedPrefix}tiktokstalk *<user>*_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« BUSCADORES »*
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}githubsearch *<txt>*_
  ►🦂 _${usedPrefix}pelisplus *<txt>*_
  ►🦂 _${usedPrefix}modapk *<txt>*_
@@ -198,11 +198,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}wikipedia *<txt>*_
  ►🦂 _${usedPrefix}ytsearch *<txt>*_
  ►🦂 _${usedPrefix}playstore *<txt>*_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« GRUPOS »* 
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}add *num>*_
  ►🦂 _${usedPrefix}kick *<@tag>*_
  ►🦂 _${usedPrefix}kick2 *<@tag>*_
@@ -231,11 +231,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}setpp *<img>*_
  ►🦂 _admins *<txt>*_ (sin prefijo)
 ${readMore}
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« CONVERTIDORES »* 
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}toanime *<img>*_
  ►🦂 _${usedPrefix}togifaud *<video>*_
  ►🦂 _${usedPrefix}toimg *<sticker>*_
@@ -246,11 +246,11 @@ ${readMore}
  ►🦂 _${usedPrefix}tourl *<video / img / audio>*_
  ►🦂 _${usedPrefix}tts *<idioma> <txt>*_
  ►🦂 _${usedPrefix}tts *<efecto> <txt>*_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« EFECTOS & LOGOS »* 
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}logos *<efecto> <txt>*_
  ►🦂 _${usedPrefix}logochristmas *<txt>*_
  ►🦂 _${usedPrefix}logocorazon *<txt>*_
@@ -261,20 +261,20 @@ ${readMore}
  ►🦂 _${usedPrefix}itssostupid_
  ►🦂 _${usedPrefix}pixelar_
  ►🦂 _${usedPrefix}blur_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« FRASES & TEXTOS »* 
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}piropo_
  ►🦂 _${usedPrefix}consejo_
  ►🦂 _${usedPrefix}fraseromantica_
  ►🦂 _${usedPrefix}historiaromantica_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« RANDOM »* 
  
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}kpop *<blackpink/exo/bts>*_
  ►🦂 _${usedPrefix}cristianoronaldo_
  ►🦂 _${usedPrefix}messi_
@@ -302,11 +302,11 @@ ${readMore}
  ►🦂 _${usedPrefix}hacker_
  ►🦂 _${usedPrefix}planeta_
  ►🦂 _${usedPrefix}randomprofile_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« EFECTOS AUDITIVOS »* 
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}bass_
  ►🦂 _${usedPrefix}blown_
  ►🦂 _${usedPrefix}deep_
@@ -319,19 +319,19 @@ ${readMore}
  ►🦂 _${usedPrefix}slow_
  ►🦂 _${usedPrefix}smooth_
  ►🦂 _${usedPrefix}tupai_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« CHAT ANÓNIMO »*
  
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}start_
  ►🦂 _${usedPrefix}next_
  ►🦂 _${usedPrefix}leave_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« HERRAMIENTAS »*
  
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}inspect *<wagc_url>*_
  ►🦂 _${usedPrefix}chatgpt *<txt>*_
  ►🦂 _${usedPrefix}delchatgpt
@@ -359,11 +359,11 @@ ${readMore}
  ►🦂 _${usedPrefix}horario_
  ►🦂 _${usedPrefix}dropmail_
 ${readMore}
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
  
  *« ECONOMÍA »* 
  
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}adventure_
  ►🦂 _${usedPrefix}cazar_
  ►🦂 _${usedPrefix}cofre_
@@ -383,11 +383,11 @@ ${readMore}
  ►🦂 _${usedPrefix}robar *<cant> <@tag>*_
  ►🦂 _${usedPrefix}transfer *<tipo> <cant> <@tag>*_
  ►🦂 _${usedPrefix}unreg *<sn>*_
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« STICKERS »* 
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}sticker *<responder a img o video>*_
  ►🦂 _${usedPrefix}sticker *<url>*_
  ►🦂 _${usedPrefix}sticker2 *<responder a img o video>*_
@@ -415,11 +415,11 @@ ${readMore}
  ►🦂 _${usedPrefix}stickermarker *<efecto> <img>*_
  ►🦂 _${usedPrefix}stickerfilter *<efecto> <img>*_
 ${readMore}
- ◣━━━━━━━━━━━◢
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« PROPIETARIO »* 
 
- ◤━━━━━━━━━━━◥
+┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}dsowner_
  ►🦂 _${usedPrefix}setprefix *<prefijo>*_
  ►🦂 _${usedPrefix}resetprefix_
@@ -484,7 +484,7 @@ ${readMore}
  ►🦂 _${usedPrefix}delcmd *<responder a sticker/img con comando o txt asignado>*_
  ►🦂 _${usedPrefix}saveimage
  ►🦂 _${usedPrefix}viewimage
- ◣━━━━━━━━━━━◢`.trim();
+┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
       const fkontak2 = {'key': {'participants': '0@s.whatsapp.net', 'remoteJid': 'status@broadcast', 'fromMe': false, 'id': 'Halo'}, 'message': {'contactMessage': {'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}, 'participant': '0@s.whatsapp.net'};
