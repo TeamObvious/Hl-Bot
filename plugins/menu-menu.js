@@ -36,6 +36,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
 ┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►🦂 _${usedPrefix}Yape *< Comprar Bot >*_
+ ►🦂 _${usedPrefix}Vendedores *< Comprar Bot >*_
 ┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« MENUS ADICIONALES »*
