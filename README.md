@@ -6,6 +6,7 @@ cd && termux-setup-storage && apt-get update -y && apt-get upgrade -y && pkg ins
 
 ```bash
 git clone https://github.com/TeamObvious/Hl-Bot.git && cd Hl-Bot
+```
 
 ```bash
 yarn install
